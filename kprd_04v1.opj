@@ -1,0 +1,25 @@
+(ExpressProject ""
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library")
+    (File ".\kprd_04v1.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (NoModify))
+  (Folder "Outputs")
+  (Folder "Referenced Projects")
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" ".\kprd_04v1.dsn")
+      (Path "Design Resources" ".\kprd_04v1.dsn" "SCHEMATIC1")
+      (Path "Design Resources" ".\kprd_04v1.dsn" "block")
+      (Select "Design Resources" ".\kprd_04v1.dsn"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 0 200 0 454"))
+      (Tab 0))))
